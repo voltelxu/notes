@@ -2,7 +2,7 @@
 title: post test
 date: 2017-11-27 21:40:30
 tags:
--trans
+
 mathjax: true
 ---
 ### 摘要
